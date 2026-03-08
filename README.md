@@ -201,9 +201,9 @@ Number of Customers = DISTINCTCOUNT(customer[customer_id])
 
 ## 📷 Dashboard Preview
 
-```markdown
-![Dashboard Overview](images/dashboard.png)
-```
+
+![Dashboard Overview](/images/dashboard.png)
+
 
 ---
 
